@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Arnav Kumar, a tech enthusiast and student at Ryan International School in Vasant Kunj, New Delhi. Skilled in Python, C, and HTML, I've developed a prototype website and continuously expand my knowledge through platforms like YouTube, Geeks for Geeks, Udemy, and edX.
+I'm Arnav Kumar, a tech enthusiast and student at Ryan International School in Vasant Kunj, New Delhi. Skilled in Python, C, C++, Java and HTML with some CSS nd Js, I've developed a prototype website and prototype apps using Java, continuously expand my knowledge through platforms like YouTube, Geeks for Geeks, Udemy, and edX.
 
 
 ## 🌐 Socials:
